@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Oi Velox? Tá de brincadeira!
 date: 2015-02-24 12:41
