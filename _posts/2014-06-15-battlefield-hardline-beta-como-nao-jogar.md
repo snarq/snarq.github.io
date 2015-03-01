@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BATTLEFIELD HARDLINE: BETA - Como Não Jogar
+title: BATTLEFIELD HARDLINE (Beta) - Como Não Jogar
 date: 2014-06-15 23:06
 author: Snarqie
 header-img: "img/post-youtube.jpg"
