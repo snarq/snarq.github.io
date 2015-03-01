@@ -12,7 +12,26 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+<!-- Whitespace added for readability -->
+                    <span class="meta">Postado por {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} em
+                    {% assign m = page.date | date: "%-m" %}
+                    {{ page.date | date: "%-d" }} de
+		    {% case m %}
+		      {% when '1' %}janeiro
+		      {% when '2' %}fevereiro
+		      {% when '3' %}março
+		      {% when '4' %}abril
+		      {% when '5' %}maio
+		      {% when '6' %}junho
+		      {% when '7' %}julho
+		      {% when '8' %}agosto
+		      {% when '9' %}setembro
+		      {% when '10' %}outubro
+		      {% when '11' %}novembro
+		      {% when '12' %}dezembro
+		    {% endcase %}
+		    {{ page.date | date: "%Y" }}
+		    </span>
                 </div>
             </div>
         </div>
