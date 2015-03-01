@@ -5,7 +5,7 @@ date: 2014-12-25 11:11
 author: Snarqie
 header-img: "img/post-youtube.jpg"
 ---
-<iframe width="640" height="360" src="http://www.youtube.com/watch?v=fP6Z00VmvEw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fP6Z00VmvEw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 O sorteio, como prometido, aconteceu. Foi um sucesso, e quero agradecer a todos que participaram, pois sem vocês não existiriam ganhadores, né?
 
 Quero aproveitar esse momento e também agradecer a todos que me seguem no Twitter, Facebook e aos inscritos no canal do YouTube e Twitch, vocês fizeram o meu 2014 melhor, sem vocês, amigos e familiares nada disso estaria acontecendo, pois é graças ao apoio de vocês que continuo tentando sempre mais uma vez. Sempre que deixo de gravar uma gameplay, ou no meu caso uma noobplay, eu sinto estar falhando com alguém, mesmo que muitos ainda digam, "Ah, mas você tem poucos inscritos, nem vão ligar", mas pra mim 1 inscrito já é o bastante, essa pessoa já fez a diferença e por ela eu sinto a necessidade de não falhar em faltar com algum vídeo. Claro, acontecem imprevistos, o tempo é pouco, mas quando não gravo algo fica aquele vazio, aquela sensação de que alguém está triste comigo, mesmo que ninguém nem ligue. Quero desejar a todos um ótimo natal e um 2015 maravilhoso. E claro, eu não posso deixar de agradecer em especial ao <a href="https://twitter.com/masatoclt" target="_blank">Masato</a> por toda ajuda durante esse final de ano, com divulgação e amizade acima de tudo. Graças a minha ex-network conheci esse amigo que é pra eternidade e que vem apoiando sempre o canal. Obrigado Masato, você é o cara!

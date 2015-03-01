@@ -5,7 +5,7 @@ date: 2014-12-10 02:21
 author: Snarqie
 header-img: "img/post-youtube.jpg"
 ---
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=RlUN-U147XY]
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RlUN-U147XY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 Esse é um vídeo um pouquinho diferente, o assunto é um sorteio que está rolando para os que me seguem no Twitter. Mas como participar? Simples, entre nesse link <a href="http://bit.ly/SnarqieGiveaway" target="_blank"><strong>bit.ly/SnarqieGiveaway</strong></a>, ou na minha página no Facebook e clique em Giveaway, mesmo se você já me seguir no Twitter, clique em Follow @Snarqie on Twitter e em "What's your Twitter username?" coloque seu nome de usuário no twitter (o seu @) e clique em "I FOLLOW!". Pronto, você estará concorrendo a uma copia de Castle Crashers (caso seja o primeiro sorteado) ou Battleblock Theater (caso seja o segundo). O sorteio ocorrerá dia 25 de dezembro.
 
 Dicas, críticas e sugestões para vídeos futuros? Deixe nos comentários, e não esqueça de avaliar deixando aquele like maroto caso tenha gostado.
