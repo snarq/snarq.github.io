@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: GTA IV - O Errado É Certo
 date: 2015-02-13 13:47
