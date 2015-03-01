@@ -1,2 +1,2 @@
 # snarqie.github.io
-Apenas um teste.
+Usando [Jekyll Now](https://github.com/jekyll/jekyll).
