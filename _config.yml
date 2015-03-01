@@ -1,10 +1,10 @@
 # Site settings
 title: Snarqie
-header-img: img/home-bg.jpg
+header-img: img/default-bg.jpg
 email: snarqie@snarqie.com
 description: "Underdog YouTuber"
 baseurl:
-url: "http://snarqie.com"
+url: "http://snarqie.github.io"
 twitter_username: snarqie
 github_username: snarqie
 facebook_username: snarqie
