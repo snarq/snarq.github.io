@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parab�ns para mim!
+title: Parabéns para mim!
 ---
 
-Apenas um teste.
+Hoje, dia 23 de fevereiro, estou aniversáriando e completando 28 anos de vida.
