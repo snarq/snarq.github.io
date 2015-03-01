@@ -15,8 +15,8 @@ description: "Underdog YouTuber"
         {% endif %}
     </a>
     <p class="post-meta">Postado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} em
-    {% assign m = page.date | date: "%-m" %}
-    {{ page.date | date: "%-d" }} de
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }} de
     {% case m %}
     {% when '1' %}janeiro
     {% when '2' %}fevereiro
@@ -31,7 +31,7 @@ description: "Underdog YouTuber"
     {% when '11' %}novembro
     {% when '12' %}dezembro
     {% endcase %} de
-    {{ page.date | date: "%Y" }}
+    {{ post.date | date: "%Y" }}
     </p>
 </div>
 <hr>
