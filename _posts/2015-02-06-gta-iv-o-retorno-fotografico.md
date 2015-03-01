@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: GTA IV - O Retorno Fotografico
 date: 2015-02-06 13:46
