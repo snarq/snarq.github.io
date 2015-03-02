@@ -31,7 +31,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://asnarqie.herokuapp.com/mail/",
+                url: "https://snarqie.herokuapp.com/mail/",
                 type: "POST",
                 data: {
                     name: name,
