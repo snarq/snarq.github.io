@@ -13,7 +13,8 @@ Quero aproveitar esse momento e também agradecer a todos que me seguem no Twitt
 Hoje estou indo ver minha família e por este motivo amanhã não tem vídeo, mas segunda volta tudo ao normal, com aquela correria linda de se ver.
 
 Mas voltando ao sorteio, o resultado foi o seguinte:
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/snarqie/photos/a.855102431182914.1073741828.808314739195017/1004858829540606/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/snarqie/photos/a.855102431182914.1073741828.808314739195017/1004858829540606/?type=1">Publicação</a> by <a href="https://www.facebook.com/snarqie">Snarqie</a>.</div></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/snarqie/photos/a.855102431182914.1073741828.808314739195017/1004858829540606/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/snarqie/photos/a.855102431182914.1073741828.808314739195017/1004858829540606/?type=1">Publicação</a> by <a href="https://www.facebook.com/snarqie">Snarqie</a>.</div></div>
 
 Ambos já resgataram os seus presentes e estão felizes.
 
