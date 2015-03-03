@@ -20,6 +20,6 @@ Ambos já resgataram os seus presentes e estão felizes.
 O Pedro enviou até um print quando estava instalando o BattleBlock Teather:
 <img src="http://www.snarqie.com/img/print-pedro-sorteio-2014.jpg" alt="BattleBlock Teather Pedro" />
 
-Esse foi o ultimo sorteio de 2014 por aqui, mas já fica o aviso que em 2015 vai rolar sorteios melhores a cada gol (meta atingida) no canal do YouTube. Já vou avisando que vai ter mídia física (PC, PS3, PS4, ONE, 360), camisetas, e quem saber coisas maiores ainda.
+Esse foi o ultimo sorteio de 2014 por aqui, mas já fica o aviso que em 2015 vai rolar sorteios melhores a cada gol (meta atingida) no canal do YouTube. Já vou avisando que vai ter mídia física (PC, PS3, PS4, ONE, 360), camisetas, e quem sabe coisas maiores ainda.
 
 Abração e tchau!
