@@ -31,7 +31,7 @@ $(function() {
                 primeiroNome = nome.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://snarqie.herokuapp.com/mail.php",
+                url: "//snarqie.herokuapp.com/mail.php",
                 type: "POST",
                 data: {
                     nome: nome,
@@ -39,6 +39,7 @@ $(function() {
                     email: email,
                     mensagem: mensagem
                 },
+				dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message

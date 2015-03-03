@@ -23,7 +23,7 @@ header-img: "img/default-bg.jpg"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Assunto</label>
-            <input type="tel" class="form-control" placeholder="Assunto" id="assunto" required data-validation-required-message="Qual o motivo do contato?">
+            <input type="text" class="form-control" placeholder="Assunto" id="assunto" required data-validation-required-message="Qual o motivo do contato?">
             <p class="help-block text-danger"></p>
         </div>
     </div>
