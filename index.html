@@ -5,8 +5,9 @@ description: "Underdog YouTuber, man!"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.url site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+    <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+        <h2 class="post-title">
+            {{ post.title }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -42,12 +43,12 @@ description: "Underdog YouTuber, man!"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' | prepend: site.url }}">&larr; Próxima</a>
+        <a href="{{ paginator.previous_page_path | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">&larr; Próxima</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Anterior &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | prepend: site.url }}">Anterior &rarr;</a>
     </li>
     {% endif %}
 </ul>
