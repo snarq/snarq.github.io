@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COD: GHOSTS - Noob É Pouco
+title: "COD: GHOSTS - Noob É Pouco"
 date: 2014-07-21 00:37
 author: Snarqie
 header-img: "img/post-youtube.jpg"
