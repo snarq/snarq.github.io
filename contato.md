@@ -2,7 +2,7 @@
 layout: page
 title: "Contato"
 description: "Alguma duvida? Eu (talvez) tenha respostas."
-permalink: /contato
+permalink: /contato/
 ---
 <p>Você pode entrar em contato comigo através do formulário abaixo, ou, se assim preferir, pelas redes sociais.</p>
 <form name="sentMessage" id="contactForm" novalidate>

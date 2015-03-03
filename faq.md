@@ -2,7 +2,7 @@
 layout: page
 title: "Perguntas Frequentes"
 description: "O que você quer saber mais?"
-permalink: /faq
+permalink: /faq/
 ---
 <p>
 <strong>Nome, idade e onde você mora?</strong><br />
