@@ -11,7 +11,6 @@ tags:
 - resultado
 - castle crashers
 - battleblock teather
-header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fP6Z00VmvEw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 O sorteio, como prometido, aconteceu. Foi um sucesso, e quero agradecer a todos que participaram, pois sem vocês não existiriam ganhadores, né?

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O dia que a Oi Velox voltou
+subtitle: Demorou, e muito, mas voltou.
 excerpt: Agora quero ver como vai chegar a conta esse mês, e como bem conheço dessa maldita empresa, vai cobrar como se eu tivesse usado o mês normalmente
 date: 2015-03-02 16:41
 author: Snarqie
