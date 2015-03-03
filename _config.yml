@@ -1,9 +1,11 @@
 # Site settings
 title: Snarqie
-header-img: img/default-bg.jpg
+header-img: "img/default-bg.jpg"
 email: snarqie@snarqie.com
-description: "Underdog YouTuber"
+description: "Gamer, desenvolvedor web, músico, youtuber (TGN Army / TGN - BroadbandTV Partner) e blogueiro nas horas vagas"
 url: "http://www.snarqie.com"
+baseurl: ""
+twitch_username: snarqie
 twitter_username: snarqie
 github_username: snarqie
 facebook_username: snarqie
@@ -16,8 +18,9 @@ paginate: 5
 timezone: America/Fortaleza
 exclude: ["less","node_modules","Gruntfile.js","package.json"]
 
+# Plugins
 gems:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jemoji
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-redirect-from
+- jemoji

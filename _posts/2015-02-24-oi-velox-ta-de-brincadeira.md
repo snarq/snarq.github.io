@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oi Velox? Tá de brincadeira!
+subtitle: Só pode ser brincadeira, bicho!
 excerpt: Desde a ultima sexta feira 13 estou sem internet aqui em casa, graças ao lindo trabalho feito pela COELCE, que cortou os fios da rede telefônica
 date: 2015-02-24 12:41
 author: Snarqie
