@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Stone Well, Mouse Filho da Pu...
 date: 2015-01-02 13:39
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/G0CFWUDBk3c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

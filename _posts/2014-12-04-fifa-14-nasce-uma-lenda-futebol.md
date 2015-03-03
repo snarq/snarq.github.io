@@ -3,6 +3,8 @@ layout: post
 title: FIFA 14 - Nasce Uma Lenda do Futebol?
 date: 2014-12-04 02:01
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/hCV53Jpwuyk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

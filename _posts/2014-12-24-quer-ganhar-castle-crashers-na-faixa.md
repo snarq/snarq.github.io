@@ -3,7 +3,12 @@ layout: post
 title: Quer ganhar Castle Crashers na faixa?
 date: 2014-12-24 09:30
 author: Snarqie
-header-img: "img/default-bg.jpg"
+categories:
+- Blog
+tags:
+- sorteio
+- castle crashers
+- battleblock teather
 ---
 No começo do mês criei uma promoção no Rafflecopter e o grande dia vem chegando. Como prometido, dois ganhadores serão selecionados amanhã.
 

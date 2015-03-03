@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Roman, O Homem Problema
 date: 2014-06-30 23:41
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/AQPnWIkjA0Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

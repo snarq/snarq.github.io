@@ -3,6 +3,8 @@ layout: post
 title: SMITE - Faça O Que Eu Digo, Não O Que Eu Faço
 date: 2015-01-23 13:40
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7xiGY1Jr2yw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Tão Fácil Quanto Parece
 date: 2014-11-10 01:29
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LcgXjAbz5_0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

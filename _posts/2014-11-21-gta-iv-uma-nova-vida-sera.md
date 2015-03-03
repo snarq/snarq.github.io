@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Uma Nova Vida? Será?
 date: 2014-11-21 01:41
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/24-DsZhFDfM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

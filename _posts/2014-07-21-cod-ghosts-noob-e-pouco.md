@@ -3,6 +3,8 @@ layout: post
 title: "COD: GHOSTS - Noob É Pouco"
 date: 2014-07-21 00:37
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bA_H6QAmaGM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

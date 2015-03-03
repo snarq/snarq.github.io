@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - O Anjo da Guarda
 date: 2014-12-11 02:23
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UoAWSHlfinE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

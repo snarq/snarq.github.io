@@ -3,6 +3,8 @@ layout: post
 title: GRID - O Pior Piloto do Mundo
 date: 2014-10-30 01:18
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7ExevdQMLgg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Vamos derrubar o MECH
 date: 2014-06-07 22:58
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/c33NB_SW8b0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

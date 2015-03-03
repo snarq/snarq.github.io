@@ -1,9 +1,16 @@
 ---
 layout: post
 title: O dia que a Oi Velox voltou
+excerpt: Agora quero ver como vai chegar a conta esse mês, e como bem conheço dessa maldita empresa, vai cobrar como se eu tivesse usado o mês normalmente
 date: 2015-03-02 16:41
 author: Snarqie
-header-img: "img/default-bg.jpg"
+categories:
+- Blog
+tags:
+- problemas
+- internet
+- telefone
+- oi velox
 ---
 Esse é um post super emocionado, coisa linda de Deus que aconteceu agora (hahaha). Eu que já não tinha nenhuma esperança de solução, quase nem acreditei quando o tecnico da Oi chegou em minha casa. Opa, mas ele nem chegou assim.
 

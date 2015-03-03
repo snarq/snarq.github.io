@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Expulso da Festa
 date: 2014-12-28 18:17
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mHSP9z2MSXE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

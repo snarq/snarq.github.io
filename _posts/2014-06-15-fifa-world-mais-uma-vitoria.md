@@ -3,6 +3,8 @@ layout: post
 title: FIFA WORLD - Mais Uma Vitória!
 date: 2014-06-15 23:03
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ZRRF8F91KR8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

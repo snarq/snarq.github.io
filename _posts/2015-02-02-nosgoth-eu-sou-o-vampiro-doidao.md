@@ -3,6 +3,8 @@ layout: post
 title: NOSGOTH - Eu Sou o Vampiro Doidão
 date: 2015-02-02 13:52
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1rOxVUWv1lQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: WARFRAME - Localizando o Segmento da Forja
 date: 2014-11-26 01:45
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6AcypAdIPjE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: FIFA WORLD - Finalmente Vencemos
 date: 2014-06-10 22:08
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UoSly3J6acM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

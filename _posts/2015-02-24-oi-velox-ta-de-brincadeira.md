@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Oi Velox? Tá de brincadeira!
+excerpt: Desde a ultima sexta feira 13 estou sem internet aqui em casa, graças ao lindo trabalho feito pela COELCE, que cortou os fios da rede telefônica
 date: 2015-02-24 12:41
 author: Snarqie
-header-img: "img/default-bg.jpg"
+categories:
+- Blog
+tags:
+- problemas
+- internet
+- telefone
+- oi velox
 ---
 <p>Acho que vocês devem ter sentido falta de mim por aqui, não? Pois se sim, culpem a Oi e seu trabalho porco (mas culpem também a COELCE).</p>
 <p>Desde a ultima sexta feira 13 estou sem internet aqui em casa, graças ao lindo trabalho feito pela Companhia Energética do Ceará que fez o desfavor de cortar os fios da rede telefônica em plena época de carnaval, resumindo, me ferrou, pois o Brasil só funciona depois do carnaval. E olha que lindo, a Oi não vem resolver meu abacaxi de maneira nenhuma.</p>

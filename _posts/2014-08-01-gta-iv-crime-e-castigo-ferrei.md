@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Crime e Castigo, Me Ferrei
 date: 2014-08-01 01:08
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LM9b9ozxycU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

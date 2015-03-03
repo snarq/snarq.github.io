@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - O Noob Voltou!!!
 date: 2014-11-06 01:26
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/D5Yf7XOzx1c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

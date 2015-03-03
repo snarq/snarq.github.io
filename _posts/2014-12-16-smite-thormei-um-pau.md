@@ -3,6 +3,8 @@ layout: post
 title: SMITE - THORmei Um Pau
 date: 2014-12-16 13:45
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kdJIAihaMhU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

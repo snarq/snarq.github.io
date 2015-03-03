@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Sky Risk, Paz e Amor
 date: 2014-12-02 01:55
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/HwJ7LHU8dOA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

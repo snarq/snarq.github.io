@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Não Me Filma Caralho
 date: 2014-11-24 01:43
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/r48DTb-3R9o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

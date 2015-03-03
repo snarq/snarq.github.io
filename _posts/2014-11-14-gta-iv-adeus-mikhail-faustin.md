@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Adeus Mikhail Faustin
 date: 2014-11-14 01:34
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jh7mQehFH3o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

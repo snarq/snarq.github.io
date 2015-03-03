@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Corrida Com o g0y Brucie
 date: 2014-12-08 02:09
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4dmJu2_Io7I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

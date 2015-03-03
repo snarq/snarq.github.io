@@ -3,6 +3,8 @@ layout: post
 title: BATTLEBLOCK THEATER - Eu Me Divirto Muito
 date: 2014-12-12 02:24
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 

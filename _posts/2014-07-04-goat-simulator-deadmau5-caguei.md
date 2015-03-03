@@ -3,6 +3,8 @@ layout: post
 title: GOAT SIMULATOR - Deadmau5? Caguei
 date: 2014-07-04 23:54
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WM3oNQdIYHc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

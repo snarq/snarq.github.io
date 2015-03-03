@@ -3,6 +3,8 @@ layout: post
 title: FIFA WORLD - Snarqie x ManezinhoGames
 date: 2014-07-02 23:47
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kQI1OdarSMU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

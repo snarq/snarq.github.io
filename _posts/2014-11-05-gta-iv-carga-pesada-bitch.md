@@ -3,6 +3,8 @@ layout: post
 title: "GTA IV - Carga Pesada, Bitch"
 date: 2014-11-05 01:24
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Y6RqMGzhO0E?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

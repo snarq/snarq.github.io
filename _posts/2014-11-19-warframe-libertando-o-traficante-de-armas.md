@@ -3,6 +3,8 @@ layout: post
 title: WARFRAME - Libertando o Traficante de Armas
 date: 2014-11-19 01:40
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JPx6DZ87ExU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

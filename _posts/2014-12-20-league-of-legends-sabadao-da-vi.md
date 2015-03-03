@@ -3,6 +3,8 @@ layout: post
 title: LEAGUE OF LEGENDS - Sabadão da Vi
 date: 2014-12-20 15:01
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/P10D5IpJz4g?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: LEAGUE OF LEGENDS - A Lenda do Rei Poro
 date: 2014-12-17 13:39
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/46oIuaex6PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

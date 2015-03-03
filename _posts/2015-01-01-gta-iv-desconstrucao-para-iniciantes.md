@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Desconstrução Para Iniciantes
 date: 2015-01-01 13:35
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/h6bzZvFeYEI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Shoot to Kill feat. @MasatoClt
 date: 2015-01-22 16:10
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Fg_LCb9YtCw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

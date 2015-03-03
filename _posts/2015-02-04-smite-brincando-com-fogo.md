@@ -3,6 +3,8 @@ layout: post
 title: SMITE - Brincando Com Fogo
 date: 2015-02-04 13:45
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WoJqVpl67uI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

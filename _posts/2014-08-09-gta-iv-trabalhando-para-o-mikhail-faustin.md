@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Trabalhando para o Mikhail (Faustin)
 date: 2014-08-09 01:10
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SP8X4lvkdNs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

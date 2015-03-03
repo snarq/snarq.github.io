@@ -3,6 +3,8 @@ layout: post
 title: CARNAGE RACING - Açulera Chessus!
 date: 2014-07-28 01:05
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TGBd-caSgXQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: FIFA WORLD - É Culpa Da Camisa
 date: 2014-06-03 18:24
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mWq842BF6PA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

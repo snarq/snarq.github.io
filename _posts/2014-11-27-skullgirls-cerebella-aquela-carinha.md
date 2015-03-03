@@ -3,6 +3,8 @@ layout: post
 title: SKULLGIRLS - Cerebella (Aquela Carinha) ( ͡° ͜ʖ ͡°)
 date: 2014-11-27 01:47
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7EF-xIudrOo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

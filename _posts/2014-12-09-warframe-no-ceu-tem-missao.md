@@ -3,6 +3,8 @@ layout: post
 title: WARFRAME - No Céu Tem Missão?
 date: 2014-12-09 02:10
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/D6kMZDKDmw0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

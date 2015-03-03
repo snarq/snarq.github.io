@@ -3,6 +3,8 @@ layout: post
 title: CASTLE CRASHERS - Sorteio no Natal
 date: 2014-12-10 02:21
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RlUN-U147XY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

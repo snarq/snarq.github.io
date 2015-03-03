@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Manny Foi Procurar Pão
 date: 2014-12-30 13:34
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XuVc5riCYMo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

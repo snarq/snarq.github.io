@@ -3,6 +3,8 @@ layout: post
 title: GTA IV MULTIPLAYER - Como Pilotar um Helicóptero
 date: 2014-06-22 23:33
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jz3YhJOMNmM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

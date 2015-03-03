@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - SHAZAAAAMMMM!
 date: 2014-12-31 12:43
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9VccN-4Bajg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

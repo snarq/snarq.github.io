@@ -3,6 +3,8 @@ layout: post
 title: WARFRAME - Recuperando a Comunicação
 date: 2014-11-17 01:36
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/S_wNHa1m5IM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

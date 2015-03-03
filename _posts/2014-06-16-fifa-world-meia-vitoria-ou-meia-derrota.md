@@ -3,6 +3,8 @@ layout: post
 title: FIFA WORLD - Meia Vitória ou Meia Derrota?
 date: 2014-06-16 23:15
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qR3RxbVPhMo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

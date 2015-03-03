@@ -3,7 +3,13 @@ layout: post
 title: DESCONEXÃO - Sem Vídeos?
 date: 2015-01-08 21:54
 author: Snarqie
-header-img: "img/post-youtube.jpg"
+categories:
+- Vídeos
+- Blog
+tags:
+- problemas
+- computador
+- manutenção
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/07ooL8MA-ls?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 Desde segunda não tenho postado vídeos no canal, mas não é por mal, tudo isso tem apenas um motivo: ESTOU SEM COMPUTADOR.

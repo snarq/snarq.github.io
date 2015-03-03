@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Limpando as Ruas
 date: 2014-12-01 01:54
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/c4iBMOAEK24?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

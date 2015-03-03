@@ -3,6 +3,8 @@ layout: post
 title: FIFA 15 (DEMO) - Só Pra Esquentar
 date: 2014-09-10 01:16
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/PUg-amNkv6g?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

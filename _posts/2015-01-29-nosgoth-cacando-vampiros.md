@@ -3,6 +3,8 @@ layout: post
 title: NOSGOTH - Caçando Vampiros
 date: 2015-01-29 13:44
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xEStVQy-XVA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

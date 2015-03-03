@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - O Retorno Fotografico
 date: 2015-02-06 13:46
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/be28Jk-gFiM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

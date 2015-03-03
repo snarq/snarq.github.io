@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - O Errado É Certo
 date: 2015-02-13 13:47
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MmYEK0iyPDI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

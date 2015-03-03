@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - É Uma Cilada, X
 date: 2014-12-15 15:34
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fj5JxQRF1Rk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

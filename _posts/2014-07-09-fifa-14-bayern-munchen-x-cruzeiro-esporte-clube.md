@@ -3,6 +3,8 @@ layout: post
 title: FIFA 14 - Bayern München x Cruzeiro Esporte Clube
 date: 2014-07-09 00:06
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ElEgt95p9kk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: WARFACE - Cuidado com o Médico
 date: 2015-01-20 13:39
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2WGJxZseEa4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: TITANFALL - Gruta dos Piratas (Exaustão)
 date: 2015-02-09 13:38
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ek7vHnJzG1s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

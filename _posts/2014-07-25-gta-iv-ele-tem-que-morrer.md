@@ -3,6 +3,8 @@ layout: post
 title: GTA IV - Ele tem que MORRER
 date: 2014-07-25 01:02
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0hEDX3OEU0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

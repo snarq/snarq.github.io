@@ -3,6 +3,14 @@ layout: post
 title: Resultado do Sorteio - Castle Crashers e BattleBlock Teather
 date: 2014-12-25 11:11
 author: Snarqie
+categories:
+- Vídeos
+- Blog
+tags:
+- sorteio
+- resultado
+- castle crashers
+- battleblock teather
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fP6Z00VmvEw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

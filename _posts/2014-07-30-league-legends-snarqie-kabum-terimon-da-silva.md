@@ -3,6 +3,8 @@ layout: post
 title: LEAGUE OF LEGENDS - Snarqie "KaBuM Terimon" da Silva
 date: 2014-07-30 01:06
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oPbLR-G32AA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

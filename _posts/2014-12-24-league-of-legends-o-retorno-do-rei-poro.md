@@ -3,6 +3,8 @@ layout: post
 title: LEAGUE OF LEGENDS - O Retorno do Rei Poro
 date: 2014-12-24 13:38
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/m6gzoG6fWSY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

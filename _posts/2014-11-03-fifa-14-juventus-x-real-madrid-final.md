@@ -3,6 +3,8 @@ layout: post
 title: FIFA 14 - Juventus x Real Madrid (Final)
 date: 2014-11-03 01:20
 author: Snarqie
+categories:
+- Vídeos
 header-img: "img/post-youtube.jpg"
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8t4LExJx5cs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
