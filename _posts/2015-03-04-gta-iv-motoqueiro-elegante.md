@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GTA IV - Motoqueiro Elegante"
+subtitle: "Missão e um papo aleatório ;)"
 date: 2015-03-04 13:30
 author: Snarqie
 categories:
