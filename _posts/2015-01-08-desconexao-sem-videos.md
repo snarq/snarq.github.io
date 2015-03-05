@@ -4,7 +4,7 @@ title: DESCONEXÃO - Sem Vídeos?
 date: 2015-01-08 21:54
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 - Blog
 tags:
 - problemas

@@ -4,7 +4,7 @@ title: BATTLEFIELD HARDLINE (Beta) - Como Não Jogar
 date: 2014-06-15 23:06
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zY-C7PzsYf8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 Dicas, críticas e sugestões para vídeos futuros? Deixe nos comentários, e não esqueça de avaliar deixando aquele like maroto caso tenha gostado.

@@ -4,7 +4,7 @@ title: "Resultado do Sorteio: Castle Crashers e BattleBlock Teather"
 date: 2014-12-25 11:11
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 - Blog
 tags:
 - sorteio

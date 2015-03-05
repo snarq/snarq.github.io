@@ -5,7 +5,7 @@ subtitle: "Missão e um papo aleatório ;)"
 date: 2015-03-04 13:30
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/nj5M70fII1I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 E enfim estou de volta, e espero que dessa vez seja de verdade. Primeiro o computador no inicio do ano, agora a internet. O que falta mais dar errado?

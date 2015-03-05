@@ -4,7 +4,7 @@ title: BATTLEBLOCK THEATER - Eu Me Divirto Muito
 date: 2014-12-12 02:24
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 ---
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yUaZI0tGJT4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

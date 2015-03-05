@@ -4,7 +4,7 @@ title: MINI METRO - Jogando E Falando Bobagem
 date: 2015-01-21 13:45
 author: Snarqie
 categories:
-- Vídeos
+- Videos
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wW0tMlCKUCU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 Dicas, críticas e sugestões para vídeos futuros? Deixe nos comentários, e não esqueça de avaliar deixando aquele like maroto caso tenha gostado.
