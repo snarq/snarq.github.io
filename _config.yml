@@ -1,10 +1,10 @@
 # Plugins
 gems:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-archives
-- jekyll-redirect-from
-- jemoji
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jemoji
 
 # Site settings
 title: Snarqie
@@ -22,6 +22,7 @@ facebook_username: snarqie
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
+paginate_path: "/pagina-:num/"
 paginate: 5
 timezone: America/Fortaleza
 exclude: ["less","node_modules","Gruntfile.js","package.json"]
@@ -29,10 +30,10 @@ exclude: ["less","node_modules","Gruntfile.js","package.json"]
 jekyll-mentions: https://twitter.com
 jekyll-archives:
   enabled: all
-  layouts: 'archive'
+  layouts: "archive"
   permalinks:
-    year: '/arquivo/:year/'
-    month: '/arquivo/:year/:month/'
-    day: '/arquivo/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/:name/'
+    year: "/arquivo/:year/"
+    month: "/arquivo/:year/:month/"
+    day: "/arquivo/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/:name/"

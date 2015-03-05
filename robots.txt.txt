@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /fonts/
+Disallow: /less/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+
+Sitemap: https://www.snarqie.com/sitemap.xml
