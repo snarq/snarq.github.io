@@ -6,7 +6,7 @@ permalink: /videos/
 meta-robots: "noodp, noydir, noindex, noarchive, follow"
 ---
 
-{% for post in site.categories.v-deos %}
+{% for post in site.categories.vídeos %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
         <h2 class="post-title">
