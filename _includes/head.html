@@ -13,14 +13,11 @@
     <meta property="twitter:image:height" content="600" />
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt | strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
-    {% elsif page.description %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />{% elsif page.description %}
     <meta name="description" content="{{ page.description }}" />
-    <meta property="og:description" content="{{ page.description }}" />
-    {% else %}
+    <meta property="og:description" content="{{ page.description }}" />{% else %}
     <meta name="description" content="{{ site.description }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
+    <meta property="og:description" content="{{ site.description }}" />{% endif %}
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="article" />
