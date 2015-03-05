@@ -5,7 +5,6 @@ description: "Gameplays e algo mais!"
 permalink: /videos/
 meta-robots: "noodp, noydir, noindex, noarchive, follow"
 ---
-
 {% for post in site.categories.videos %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
@@ -40,19 +39,3 @@ meta-robots: "noodp, noydir, noindex, noarchive, follow"
 </div>
 <hr>
 {% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | replace: '/index.html', '' | prepend: site.baseurl | prepend: site.url }}/">&larr; Próxima</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | prepend: site.url }}/">Anterior &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
