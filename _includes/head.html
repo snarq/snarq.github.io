@@ -38,6 +38,8 @@
     {% if page.url == "/404.html" %}
     <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
+	<meta name="robots" content="{% if page.meta-robots %}{{ page.meta-robots }}{% else %}{{ site.meta-robots }}{% endif %}">
+	
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl | prepend: site.url }}">
