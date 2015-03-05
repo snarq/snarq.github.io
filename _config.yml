@@ -14,9 +14,10 @@ description: "Gamer, desenvolvedor web, músico, youtuber (TGN Army/TGN - Broadb
 meta-robots: "noodp, noydir, index, follow"
 url: "https://www.snarqie.com"
 baseurl: ""
+youtube_username: snarqie
 twitch_username: snarqie
-twitter_username: snarqie
 github_username: snarqie
+twitter_username: snarqie
 facebook_username: snarqie
 
 # Build settings
