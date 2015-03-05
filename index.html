@@ -43,7 +43,7 @@ description: "Underdog YouTuber, man!"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}/">&larr; Próxima</a>
+        <a href="{{ paginator.previous_page_path | replace: '/index.html', '' | prepend: site.baseurl | prepend: site.url }}/">&larr; Próxima</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
