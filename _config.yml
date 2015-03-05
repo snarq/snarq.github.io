@@ -1,3 +1,11 @@
+# Plugins
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-archives
+- jekyll-redirect-from
+- jemoji
+
 # Site settings
 title: Snarqie
 header-img: "img/default-bg.jpg"
@@ -18,9 +26,13 @@ paginate: 5
 timezone: America/Fortaleza
 exclude: ["less","node_modules","Gruntfile.js","package.json"]
 
-# Plugins
-gems:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-redirect-from
-- jemoji
+jekyll-mentions: https://twitter.com
+jekyll-archives:
+  enabled: []
+  layouts: 'archive'
+  permalinks:
+    year: '/arquivo/:year/'
+    month: '/arquivo/:year/:month/'
+    day: '/arquivo/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'

@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.url }}{{ site.baseurl }}/{{ site.header-img }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+				{% assign pagetype = page.type %}
+				{% case pagetype %}
+				{% when 'category' %}
+                    <h1>{{ page.title }}</h1>
+                    <hr class="small">
+                    <span class="subheading">Categoria</span>
+				{% when 'tag' %}
+                    <h1>{{ page.title }}</h1>
+                    <hr class="small">
+                    <span class="subheading">Tag</span>
+				{% when 'year' %}
+                    <h1>{{ page.date | date: "%Y" }}</h1>
+                    <hr class="small">
+                    <span class="subheading">Arquivo Anual</span>
+				{% when 'month' %}
+                    <h1>{{ page.date | date: "%B %Y" }}</h1>
+                    <hr class="small">
+                    <span class="subheading">Arquivo Mensal</span>
+				{% when 'day' %}
+                    <h1>{{ page.date | date: "%B %-d, %Y" }}</h1>
+                    <hr class="small">
+                    <span class="subheading">Arquivo Diário</span>
+				{% endcase %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+{% for post in page.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Postado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} em
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }} de
+    {% case m %}
+    {% when '1' %}janeiro
+    {% when '2' %}fevereiro
+    {% when '3' %}março
+    {% when '4' %}abril
+    {% when '5' %}maio
+    {% when '6' %}junho
+    {% when '7' %}julho
+    {% when '8' %}agosto
+    {% when '9' %}setembro
+    {% when '10' %}outubro
+    {% when '11' %}novembro
+    {% when '12' %}dezembro
+    {% endcase %} de
+    {{ post.date | date: "%Y" }}
+    </p>
+</div>
+<hr>
+{% endfor %}
+		</div>
+	</div>
+</div>
+
+<hr>
