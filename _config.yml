@@ -28,7 +28,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json"]
 
 jekyll-mentions: https://twitter.com
 jekyll-archives:
-  enabled: []
+  enabled: all
   layouts: 'archive'
   permalinks:
     year: '/arquivo/:year/'
