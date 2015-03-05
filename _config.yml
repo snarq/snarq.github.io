@@ -2,7 +2,6 @@
 gems:
   - jekyll-sitemap
   - jekyll-mentions
-  - jekyll-archives
   - jekyll-redirect-from
   - jemoji
 
@@ -11,6 +10,7 @@ title: Snarqie
 header-img: "img/default-bg.jpg"
 email: snarqie@snarqie.com
 description: "Gamer, desenvolvedor web, músico, youtuber (TGN Army/TGN - BroadbandTV Partner) e blogueiro nas horas vagas"
+meta-robots: "noodp, noydir, index, follow"
 url: "//www.snarqie.com"
 baseurl: ""
 twitch_username: snarqie
@@ -25,15 +25,6 @@ permalink: /:title/
 paginate_path: "/pagina-:num"
 paginate: 5
 timezone: America/Fortaleza
-exclude: ["less","node_modules","Gruntfile.js","package.json"]
+exclude: ["less","node_modules"]
 
 jekyll-mentions: https://twitter.com
-jekyll-archives:
-  enabled: all
-  layouts: "archive"
-  permalinks:
-    year: "/arquivo/:year/"
-    month: "/arquivo/:year/:month/"
-    day: "/arquivo/:year/:month/:day/"
-    tag: "/tag/:name/"
-    category: "/:name/"
