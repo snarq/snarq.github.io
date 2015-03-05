@@ -22,7 +22,7 @@ facebook_username: snarqie
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
-paginate_path: "/pagina-:num/"
+paginate_path: "/pagina-:num"
 paginate: 5
 timezone: America/Fortaleza
 exclude: ["less","node_modules","Gruntfile.js","package.json"]
