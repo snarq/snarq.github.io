@@ -2,15 +2,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:locale" content="pt_BR" />
-	<meta property="og:url" content="{{ page.url | replace:'index.html','' | replace:'.html','' | prepend: site.baseurl | prepend: site.url }}" />
-	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{% if page.meta-img %}{{ page.meta-img }}{% else %}{{ site.meta-img }}{% endif %}" />
-	<meta property="og:image:type" content="image/jpeg" />
-	<meta property="og:image:width" content="800" />
-	<meta property="og:image:height" content="600" />
-	<meta property="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{% if page.meta-img %}{{ page.meta-img }}{% else %}{{ site.meta-img }}{% endif %}" />
-	<meta property="twitter:image:width" content="800" />
-	<meta property="twitter:image:height" content="600" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | replace:'.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{% if page.meta-img %}{{ page.meta-img }}{% else %}{{ site.meta-img }}{% endif %}" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="600" />
+    <meta property="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{% if page.meta-img %}{{ page.meta-img }}{% else %}{{ site.meta-img }}{% endif %}" />
+    <meta property="twitter:image:width" content="800" />
+    <meta property="twitter:image:height" content="600" />
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
@@ -23,22 +23,22 @@
     {% endif %}
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
-	<meta property="og:type" content="article" />
+    <meta property="og:type" content="article" />
     <meta property="twitter:title" content="{{ page.title }}" />
-	<meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:card" content="summary_large_image" />
     {% else %}
     <meta property="og:title" content="{{ site.title }}" />
-	<meta property="og:type" content="website">
+    <meta property="og:type" content="website">
     <meta property="twitter:title" content="{{ site.title }}" />
     {% endif %}
-	<meta property="og:site_name" content="Snarqie" />
-	<meta property="twitter:site" content="@snarqie" />
-	<meta property="twitter:creator" content="@snarqie" />
+    <meta property="og:site_name" content="Snarqie" />
+    <meta property="twitter:site" content="@snarqie" />
+    <meta property="twitter:creator" content="@snarqie" />
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     {% if page.url == "/404.html" %}
     <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
-	<meta name="robots" content="{% if page.meta-robots %}{{ page.meta-robots }}{% else %}{{ site.meta-robots }}{% endif %}">
+    <meta name="robots" content="{% if page.meta-robots %}{{ page.meta-robots }}{% else %}{{ site.meta-robots }}{% endif %}">
 	
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Bootstrap Core CSS -->
