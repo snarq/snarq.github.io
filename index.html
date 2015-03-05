@@ -1,8 +1,8 @@
 ---
 layout: page
+is_home: true
 description: "Underdog YouTuber, man!"
 ---
-
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
