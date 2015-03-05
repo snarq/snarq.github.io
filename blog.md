@@ -6,7 +6,7 @@ permalink: /blog/
 meta-robots: "noodp, noydir, noindex, noarchive, follow"
 ---
 
-{% for post in site.categories.Blog %}
+{% for post in site.categories.blog %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
         <h2 class="post-title">
