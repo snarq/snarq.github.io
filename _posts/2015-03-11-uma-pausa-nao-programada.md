@@ -8,7 +8,7 @@ author: Snarqie
 categories:
 - Blog
 ---
-Esse ano realmente não começou bem para mim. Começou com algumas perdas, amigos que se foram, parantes assassinados dentro de casa (na casa deles), o computador ~~que ficou uma década na assistência técnica~~ e depois o problema com a Velox (Oi).
+Esse ano realmente não começou bem para mim. Começou com algumas perdas, amigos que se foram, parantes assassinados dentro de casa (na casa deles), o computador que ficou uma década na assistência técnica, e depois o problema com a Velox (Oi).
 
 A morte é algo da qual não podemos reclamar, pois dela ninguém escapa e não tem choro que dê jeito. Um computador se compra outro e tá tudo resolvido, ou quase isso. Porém uma internet ruim, essa o único jeito é deixar de ser trouxa e cancelar. Uso a Velox aqui em casa desde 2007, e até 2009 nunca tive com o que reclamar, mas de 2010 pra cá já perdi as contas de quantas ligações, dores de cabeça, dias offline, trabalhos atrasados e prejuízos. Nunca tive um suporte digno, sempre tratam o cliente como um bosta desatualizado, que não sabe de nada. A ultima que me aconteceu, e que por acaso achei super estranho, foi o aparecimentos de recargas para celular na minha conta telefônica, na qual só cheguei a descobrir agora.
 
