@@ -5,4 +5,4 @@ Disallow: /css/
 Disallow: /img/
 Disallow: /js/
 
-Sitemap: https://www.snarqie.com/sitemap.xml
+Sitemap: http://www.snarqie.com/sitemap.xml
