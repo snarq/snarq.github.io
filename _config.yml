@@ -12,7 +12,7 @@ meta-img: "img/default-meta.jpg"
 email: snarqie@snarqie.com
 description: "Gamer, desenvolvedor web, músico, youtuber (TGN Army/TGN - BroadbandTV Partner) e blogueiro nas horas vagas"
 meta-robots: "noodp, noydir, index, follow"
-url: "https://www.snarqie.com"
+url: "http://www.snarqie.com"
 baseurl: ""
 youtube_username: snarqie
 twitch_username: snarqie
