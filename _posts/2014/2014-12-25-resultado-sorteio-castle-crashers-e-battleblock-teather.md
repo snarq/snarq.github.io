@@ -20,12 +20,12 @@ Quero aproveitar esse momento e também agradecer a todos que me seguem no Twitt
 Hoje estou indo ver minha família e por este motivo amanhã não tem vídeo, mas segunda volta tudo ao normal, com aquela correria linda de se ver.
 
 Mas voltando ao sorteio, o resultado foi o seguinte:
-<img src="http://www.snarqie.com/img/posts/resultado-sorteio-2014.jpg" alt="Resultado do Sorteio" />
+<img src="/assets/images/posts/2014/resultado-sorteio-2014.jpg" alt="Resultado do Sorteio" />
 
 Ambos já resgataram os seus presentes e estão felizes.
 
 O Pedro enviou até um print quando estava instalando o BattleBlock Teather:
-<img src="http://www.snarqie.com/img/posts/print-pedro-sorteio-2014.jpg" alt="BattleBlock Teather Pedro" />
+<img src="/assets/images/posts/2014/print-pedro-sorteio-2014.jpg" alt="BattleBlock Teather Pedro" />
 
 Esse foi o ultimo sorteio de 2014 por aqui, mas já fica o aviso que em 2015 vai rolar sorteios melhores a cada gol (meta atingida) no canal do YouTube. Já vou avisando que vai ter mídia física (PC, PS3, PS4, ONE, 360), camisetas, e quem sabe coisas maiores ainda.
 

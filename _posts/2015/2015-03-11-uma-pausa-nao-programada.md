@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uma pausa não programada"
-subtitle: "Um ''pausão'' por tempo indeterminado"
+subtitle: "Um \"pausão\" por tempo indeterminado"
 description: "Já não aguento tantos problemas com a Oi e essa internet banda larga dela (que de largo só tem preço), já deu."
 date: 2015-03-11 16:00
 author: Snarqie

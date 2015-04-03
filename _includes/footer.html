@@ -22,16 +22,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.facebook_username %}
-                    <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
                     {% if site.youtube_username %}
                     <li>
                         <a href="https://www.youtube.com/user/{{ site.youtube_username }}">
@@ -52,16 +42,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.github_username %}
-                    <li>
-                        <a href="https://github.com/{{ site.github_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
@@ -71,6 +51,6 @@
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/bootstrap.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/js/clean-blog.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/default.js" | prepend: site.baseurl | prepend: site.url }}"></script>

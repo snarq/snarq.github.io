@@ -2,7 +2,6 @@
 layout: post
 title: "SMITE - Onúris: O Assassino de Inimigos"
 subtitle: "Gameplay de um jeito diferente"
-meta-img: "img/posts/meta/smite-onuris-o-assassino-de-inimigos.jpg"
 description: "Testando um jeito diferente de fazer os vídeos. O que vocês acham? Melhor agora, ou antes todo sem jeito?"
 date: 2015-03-06 15:00
 author: Snarqie

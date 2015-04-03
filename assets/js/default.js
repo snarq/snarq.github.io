@@ -31,7 +31,7 @@ $(function() {
                 primeiroNome = nome.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://apps.snarqie.com/mail.php",
+                url: "https://apps.snarqie.com/mail.php",
                 type: "POST",
                 data: {
                     nome: nome,
