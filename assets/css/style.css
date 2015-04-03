@@ -143,6 +143,9 @@ hr.small {
   padding: 100px 0 50px;
   color: white;
 }
+.texture-header {
+  background: url(images/texture.png);
+}
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
   .intro-header .post-heading,
@@ -187,6 +190,7 @@ hr.small {
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
+  color: #00CFFF;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -200,9 +204,6 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
-  }
-  .intro-header .post-heading .subheading {
-    font-size: 30px;
   }
 }
 .post-preview > a {
@@ -400,4 +401,7 @@ blockquote p:first-child, blockquote h3:first-child {
 }
 blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child {
   margin-bottom: 0;
+}
+img {
+  max-width: 100% !important;
 }
