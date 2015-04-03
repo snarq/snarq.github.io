@@ -20,7 +20,7 @@ Um amigo de outro estado me ofereceu um emprego, mas, devido a tudo que falei qu
 
 Voltando a falar sobre o retorno, finalmente voltei a gravar as gameplays, e já rolou até uma hoje ["Salvando o Roman"](/gta-iv-salvando-o-roman/). No inicio do canal eu utilizava o FRAPS para gravar, porém eu perdia muito fps e acabei mudando para o ShadowPlay da NVIDIA (já que minha placa é da NVIDIA), mas existia uma certa limitação que me incomodava, que era não poder gravar jogos que rodam em janela. Dai um amigo me falou sobre o Action! da Mirillis, que eu deveria dar uma chance a esse programa, e foi o que realmente fiz e gostei muito.
 
-![Mirillis Action!](https://puu.sh/gZZEl/a984679634.jpg)
+![Mirillis Action!](https://puu.sh/h0s0h/d53b6eca1c.jpg)
 
 > Depois de muitos e muitos testes acabei comprando ele na [Steam](http://store.steampowered.com/app/228180/) aproveitando que está em promoção até a próxima segunda. Existem várias recomendações sobre o mesmo na Steam.
 

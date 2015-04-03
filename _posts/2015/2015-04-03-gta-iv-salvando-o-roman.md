@@ -21,7 +21,7 @@ categories:
 *→ [twitch.tv/Snarqie](http://bitl.ly/SnarqieTwitch)*
 
 **❤ Siga no Twitter:**<br />
-*→ [twitter.com/@Snarqie](http://bit.ly/SnarqieTwitter)*
+*→ [twitter.com/Snarqie](http://bit.ly/SnarqieTwitter)*
 
 **❤ Curta no Facebook:**<br />
 *→ [facebook.com/Snarqie](http://bit.ly/SnarqieFacebook)*
