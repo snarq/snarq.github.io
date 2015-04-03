@@ -47,4 +47,4 @@ E isso é tudo pessoal. Espero que tenham gostado da notícia do meu retorno, e 
 Abraços!
 
 > ###Update!
-*Participei domingo de um podcast, entre amigos, onde falamos um pouco de como está a nossa cituação durante essa crize que afeta ao país. Para conferir basta clicar no link:* [Papo de Colecionador #08 - Crise...(e outras revelações)](http://masatocollector.blogspot.com.br/2015/03/papo-de-colecionador-08-crisee-outras.html)
+*Participei domingo de um podcast, entre amigos, onde falamos um pouco de como está a nossa situação durante essa crise que afeta ao país. Para conferir basta clicar no link:* [Papo de Colecionador #08 - Crise...(e outras revelações)](http://masatocollector.blogspot.com.br/2015/03/papo-de-colecionador-08-crisee-outras.html)

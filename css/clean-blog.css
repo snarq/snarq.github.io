@@ -395,7 +395,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-blockquote p:first-child {
+blockquote p:first-child, blockquote h3:first-child {
   margin-top: 0;
 }
 blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child {
