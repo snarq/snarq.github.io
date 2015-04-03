@@ -20,15 +20,15 @@ Um amigo de outro estado me ofereceu um emprego, mas, devido a tudo que falei qu
 
 Voltando a falar sobre o retorno, finalmente voltei a gravar as gameplays, e já rolou até uma hoje ["Salvando o Roman"](/gta-iv-salvando-o-roman). No inicio do canal eu utilizava o FRAPS para gravar, porém eu perdia muito fps e acabei mudando para o ShadowPlay da NVIDIA (já que minha placa é da NVIDIA), mas existia uma certa limitação que me incomodava, que era não poder gravar jogos que rodam em janela. Dai um amigo me falou sobre o Action! da Mirillis, que eu deveria dar uma chance a esse programa, e foi o que realmente fiz e gostei muito.
 
-![Mirillis Action!](http://puu.sh/gZZEl/a984679634.jpg)
+![Mirillis Action!](https://puu.sh/gZZEl/a984679634.jpg)
 > Depois de muitos e muitos testes, acabei comprando ele na [Steam](http://store.steampowered.com/app/228180/), aproveitando que está em promoção até a próxima segunda. Existem várias recomendações sobre o mesmo na Steam, e agora eu posto a minha recomendação aqui.
 
 O Action! rouba poucos frames por segundo (o famoso fps), e isso é um ponto mais que positivo, já que o FRAPS roubava muito. Nesse quesito o Action! e o ShadowPlay estão empatados, porem o programa da Mirillis ganha quando o assunto é áudio. O Action! me possibilita gravar o áudio do meu microfone separado do áudio do sistema, assim posso editar o que eu falo sem prejudicar o áudio do game.
 
-![Mirillis Action!](http://puu.sh/h0ho3/4096505f49.jpg)
+![Mirillis Action!](https://puu.sh/h0ho3/4096505f49.jpg)
 > Ele me possibilita enviar a gameplay direto para o YouTube ou Facebook caso eu não queira fazer edições.
 
-![Mirillis Action!](http://puu.sh/h0hFB/2ef55e6db3.jpg)
+![Mirillis Action!](https://puu.sh/h0hFB/2ef55e6db3.jpg)
 > Posso usar a minha webcam na gameplay sem precisar de edições. Essa funcionalidade possivelmente foi pensada para o Action! LIVE Streaming, porém para quem faz stream eu não indico o Action!, pois ele não te dá a mesma liberdade que você encontra no [OBS (Open Broadcaster Software)](https://obsproject.com/), que é free.
 
 O meu microfone ainda continua ruim, mas é por falta de uma placa de som decente. Essas onboard são bem lixosas e infelizmente não tenho grana para comprar uma offboad. Porém, atualmente tudo está novinho. Teclado novo, mouse novo, headset novo, tudo da família Logitech pra não ter problemas tão cedo.
@@ -42,3 +42,6 @@ Vou começar a estudar estrategias e builds, tanto de Smite como de LoL, para fa
 E isso é tudo pessoal. Espero que tenham gostado da notícia do meu retorno, e agradeço a compreensão de todos e o apoio também.
 
 Abraços!
+
+######Update!
+*Participei domingo de um podcast, entre amigos, onde falamos um pouco de como está a nossa cituação durante essa crize que afeta ao país. Para conferir basta clicar no link:* [Papo de Colecionador #08 - Crise...(e outras revelações)](http://masatocollector.blogspot.com.br/2015/03/papo-de-colecionador-08-crisee-outras.html)
