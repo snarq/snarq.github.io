@@ -144,7 +144,7 @@ hr.small {
   color: white;
 }
 .texture-header {
-  background: url(images/texture.png);
+  background: url(/assets/images/default/texture.png);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
