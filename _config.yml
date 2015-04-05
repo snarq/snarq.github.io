@@ -11,7 +11,7 @@ header-img: "assets/images/default/background.jpg"
 meta-img: "assets/images/default/meta.jpg"
 email: snarqie@snarqie.com
 description: "Gamer, desenvolvedor web, músico, youtuber (TGN Army/TGN - BroadbandTV Partner) e blogueiro nas horas vagas"
-meta-robots: "noodp, noydir, index, follow"
+meta-robots: "noodp, noydir, noindex, nofollow"
 url: "https://snarq.github.io"
 baseurl: ""
 youtube_username: snarqie
